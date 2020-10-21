@@ -1,0 +1,7 @@
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\Dizi(Arrays)Örnek2\Dizi(Arrays)Örnek2\bin\Debug\Dizi(Arrays)Örnek2.exe.config
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\Dizi(Arrays)Örnek2\Dizi(Arrays)Örnek2\bin\Debug\Dizi(Arrays)Örnek2.exe
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\Dizi(Arrays)Örnek2\Dizi(Arrays)Örnek2\bin\Debug\Dizi(Arrays)Örnek2.pdb
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\Dizi(Arrays)Örnek2\Dizi(Arrays)Örnek2\obj\Debug\Dizi(Arrays)Örnek2.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\Dizi(Arrays)Örnek2\Dizi(Arrays)Örnek2\obj\Debug\Dizi(Arrays)Örnek2.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\Dizi(Arrays)Örnek2\Dizi(Arrays)Örnek2\obj\Debug\Dizi(Arrays)Örnek2.exe
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\Dizi(Arrays)Örnek2\Dizi(Arrays)Örnek2\obj\Debug\Dizi(Arrays)Örnek2.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\DallanmaYaniEtiketKullanımı\DallanmaYaniEtiketKullanımı\bin\Debug\DallanmaYaniEtiketKullanımı.exe.config
+C:\Users\user\source\repos\DallanmaYaniEtiketKullanımı\DallanmaYaniEtiketKullanımı\bin\Debug\DallanmaYaniEtiketKullanımı.exe
+C:\Users\user\source\repos\DallanmaYaniEtiketKullanımı\DallanmaYaniEtiketKullanımı\bin\Debug\DallanmaYaniEtiketKullanımı.pdb
+C:\Users\user\source\repos\DallanmaYaniEtiketKullanımı\DallanmaYaniEtiketKullanımı\obj\Debug\DallanmaYaniEtiketKullanımı.csprojAssemblyReference.cache
+C:\Users\user\source\repos\DallanmaYaniEtiketKullanımı\DallanmaYaniEtiketKullanımı\obj\Debug\DallanmaYaniEtiketKullanımı.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DallanmaYaniEtiketKullanımı\DallanmaYaniEtiketKullanımı\obj\Debug\DallanmaYaniEtiketKullanımı.exe
+C:\Users\user\source\repos\DallanmaYaniEtiketKullanımı\DallanmaYaniEtiketKullanımı\obj\Debug\DallanmaYaniEtiketKullanımı.pdb

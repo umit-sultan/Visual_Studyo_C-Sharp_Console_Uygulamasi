@@ -1,0 +1,7 @@
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DiziÖrnek6(Array.Reverse komutu Tersine Çevirme)\DiziÖrnek6(Array.Reverse komutu Tersine Çevirme)\bin\Debug\DiziÖrnek6(Array.Reverse komutu Tersine Çevirme).exe.config
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DiziÖrnek6(Array.Reverse komutu Tersine Çevirme)\DiziÖrnek6(Array.Reverse komutu Tersine Çevirme)\bin\Debug\DiziÖrnek6(Array.Reverse komutu Tersine Çevirme).exe
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DiziÖrnek6(Array.Reverse komutu Tersine Çevirme)\DiziÖrnek6(Array.Reverse komutu Tersine Çevirme)\bin\Debug\DiziÖrnek6(Array.Reverse komutu Tersine Çevirme).pdb
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DiziÖrnek6(Array.Reverse komutu Tersine Çevirme)\DiziÖrnek6(Array.Reverse komutu Tersine Çevirme)\obj\Debug\DiziÖrnek6(Array.Reverse komutu Tersine Çevirme).csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DiziÖrnek6(Array.Reverse komutu Tersine Çevirme)\DiziÖrnek6(Array.Reverse komutu Tersine Çevirme)\obj\Debug\DiziÖrnek6(Array.Reverse komutu Tersine Çevirme).csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DiziÖrnek6(Array.Reverse komutu Tersine Çevirme)\DiziÖrnek6(Array.Reverse komutu Tersine Çevirme)\obj\Debug\DiziÖrnek6(Array.Reverse komutu Tersine Çevirme).exe
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DiziÖrnek6(Array.Reverse komutu Tersine Çevirme)\DiziÖrnek6(Array.Reverse komutu Tersine Çevirme)\obj\Debug\DiziÖrnek6(Array.Reverse komutu Tersine Çevirme).pdb

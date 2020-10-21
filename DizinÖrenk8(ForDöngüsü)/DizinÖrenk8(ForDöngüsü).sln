@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DizinÖrenk8(ForDöngüsü)", "DizinÖrenk8(ForDöngüsü)\DizinÖrenk8(ForDöngüsü).csproj", "{65A9B613-A1B6-45B8-9A1B-94F602DBEDBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65A9B613-A1B6-45B8-9A1B-94F602DBEDBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65A9B613-A1B6-45B8-9A1B-94F602DBEDBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65A9B613-A1B6-45B8-9A1B-94F602DBEDBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65A9B613-A1B6-45B8-9A1B-94F602DBEDBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38F7B1FD-C1D9-451C-9569-6E26089930A9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\VİSUAL STUDYO\WhileDöngüsüÖrnek2\WhileDöngüsüÖrnek2\bin\Debug\WhileDöngüsüÖrnek2.exe.config
+C:\Users\user\Desktop\VİSUAL STUDYO\WhileDöngüsüÖrnek2\WhileDöngüsüÖrnek2\bin\Debug\WhileDöngüsüÖrnek2.exe
+C:\Users\user\Desktop\VİSUAL STUDYO\WhileDöngüsüÖrnek2\WhileDöngüsüÖrnek2\bin\Debug\WhileDöngüsüÖrnek2.pdb
+C:\Users\user\Desktop\VİSUAL STUDYO\WhileDöngüsüÖrnek2\WhileDöngüsüÖrnek2\obj\Debug\WhileDöngüsüÖrnek2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\VİSUAL STUDYO\WhileDöngüsüÖrnek2\WhileDöngüsüÖrnek2\obj\Debug\WhileDöngüsüÖrnek2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VİSUAL STUDYO\WhileDöngüsüÖrnek2\WhileDöngüsüÖrnek2\obj\Debug\WhileDöngüsüÖrnek2.exe
+C:\Users\user\Desktop\VİSUAL STUDYO\WhileDöngüsüÖrnek2\WhileDöngüsüÖrnek2\obj\Debug\WhileDöngüsüÖrnek2.pdb

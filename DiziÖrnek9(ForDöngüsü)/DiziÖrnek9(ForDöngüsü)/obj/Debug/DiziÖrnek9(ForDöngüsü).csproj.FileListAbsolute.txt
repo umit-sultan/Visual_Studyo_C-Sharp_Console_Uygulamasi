@@ -1,0 +1,7 @@
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DiziÖrnek9(ForDöngüsü)\DiziÖrnek9(ForDöngüsü)\bin\Debug\DiziÖrnek9(ForDöngüsü).exe.config
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DiziÖrnek9(ForDöngüsü)\DiziÖrnek9(ForDöngüsü)\bin\Debug\DiziÖrnek9(ForDöngüsü).exe
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DiziÖrnek9(ForDöngüsü)\DiziÖrnek9(ForDöngüsü)\bin\Debug\DiziÖrnek9(ForDöngüsü).pdb
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DiziÖrnek9(ForDöngüsü)\DiziÖrnek9(ForDöngüsü)\obj\Debug\DiziÖrnek9(ForDöngüsü).csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DiziÖrnek9(ForDöngüsü)\DiziÖrnek9(ForDöngüsü)\obj\Debug\DiziÖrnek9(ForDöngüsü).csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DiziÖrnek9(ForDöngüsü)\DiziÖrnek9(ForDöngüsü)\obj\Debug\DiziÖrnek9(ForDöngüsü).exe
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DiziÖrnek9(ForDöngüsü)\DiziÖrnek9(ForDöngüsü)\obj\Debug\DiziÖrnek9(ForDöngüsü).pdb

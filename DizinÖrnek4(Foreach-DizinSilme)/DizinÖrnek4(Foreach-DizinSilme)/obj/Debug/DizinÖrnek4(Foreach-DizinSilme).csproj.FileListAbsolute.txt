@@ -1,0 +1,7 @@
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DizinÖrnek4(Foreach-DizinSilme)\DizinÖrnek4(Foreach-DizinSilme)\bin\Debug\DizinÖrnek4(Foreach-DizinSilme).exe.config
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DizinÖrnek4(Foreach-DizinSilme)\DizinÖrnek4(Foreach-DizinSilme)\bin\Debug\DizinÖrnek4(Foreach-DizinSilme).exe
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DizinÖrnek4(Foreach-DizinSilme)\DizinÖrnek4(Foreach-DizinSilme)\bin\Debug\DizinÖrnek4(Foreach-DizinSilme).pdb
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DizinÖrnek4(Foreach-DizinSilme)\DizinÖrnek4(Foreach-DizinSilme)\obj\Debug\DizinÖrnek4(Foreach-DizinSilme).csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DizinÖrnek4(Foreach-DizinSilme)\DizinÖrnek4(Foreach-DizinSilme)\obj\Debug\DizinÖrnek4(Foreach-DizinSilme).csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DizinÖrnek4(Foreach-DizinSilme)\DizinÖrnek4(Foreach-DizinSilme)\obj\Debug\DizinÖrnek4(Foreach-DizinSilme).exe
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DizinÖrnek4(Foreach-DizinSilme)\DizinÖrnek4(Foreach-DizinSilme)\obj\Debug\DizinÖrnek4(Foreach-DizinSilme).pdb

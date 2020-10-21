@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\VİSUAL STUDYO\BirDaireninAlanı\BirDaireninAlanı\bin\Debug\BirDaireninAlanı.exe.config
+C:\Users\user\Desktop\VİSUAL STUDYO\BirDaireninAlanı\BirDaireninAlanı\bin\Debug\BirDaireninAlanı.exe
+C:\Users\user\Desktop\VİSUAL STUDYO\BirDaireninAlanı\BirDaireninAlanı\bin\Debug\BirDaireninAlanı.pdb
+C:\Users\user\Desktop\VİSUAL STUDYO\BirDaireninAlanı\BirDaireninAlanı\obj\Debug\BirDaireninAlanı.csprojAssemblyReference.cache
+C:\Users\user\Desktop\VİSUAL STUDYO\BirDaireninAlanı\BirDaireninAlanı\obj\Debug\BirDaireninAlanı.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VİSUAL STUDYO\BirDaireninAlanı\BirDaireninAlanı\obj\Debug\BirDaireninAlanı.exe
+C:\Users\user\Desktop\VİSUAL STUDYO\BirDaireninAlanı\BirDaireninAlanı\obj\Debug\BirDaireninAlanı.pdb
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\BirDaireninAlanı\BirDaireninAlanı\bin\Debug\BirDaireninAlanı.exe.config
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\BirDaireninAlanı\BirDaireninAlanı\bin\Debug\BirDaireninAlanı.exe
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\BirDaireninAlanı\BirDaireninAlanı\bin\Debug\BirDaireninAlanı.pdb
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\BirDaireninAlanı\BirDaireninAlanı\obj\Debug\BirDaireninAlanı.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\BirDaireninAlanı\BirDaireninAlanı\obj\Debug\BirDaireninAlanı.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\BirDaireninAlanı\BirDaireninAlanı\obj\Debug\BirDaireninAlanı.exe
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\BirDaireninAlanı\BirDaireninAlanı\obj\Debug\BirDaireninAlanı.pdb

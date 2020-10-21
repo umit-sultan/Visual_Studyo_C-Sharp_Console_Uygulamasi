@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\VİSUAL STUDYO\RandomÖrnek2\RandomÖrnek2\bin\Debug\RandomÖrnek2.exe.config
+C:\Users\user\Desktop\VİSUAL STUDYO\RandomÖrnek2\RandomÖrnek2\bin\Debug\RandomÖrnek2.exe
+C:\Users\user\Desktop\VİSUAL STUDYO\RandomÖrnek2\RandomÖrnek2\bin\Debug\RandomÖrnek2.pdb
+C:\Users\user\Desktop\VİSUAL STUDYO\RandomÖrnek2\RandomÖrnek2\obj\Debug\RandomÖrnek2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\VİSUAL STUDYO\RandomÖrnek2\RandomÖrnek2\obj\Debug\RandomÖrnek2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VİSUAL STUDYO\RandomÖrnek2\RandomÖrnek2\obj\Debug\RandomÖrnek2.exe
+C:\Users\user\Desktop\VİSUAL STUDYO\RandomÖrnek2\RandomÖrnek2\obj\Debug\RandomÖrnek2.pdb
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\RandomÖrnek2\RandomÖrnek2\bin\Debug\RandomÖrnek2.exe.config
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\RandomÖrnek2\RandomÖrnek2\bin\Debug\RandomÖrnek2.exe
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\RandomÖrnek2\RandomÖrnek2\bin\Debug\RandomÖrnek2.pdb
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\RandomÖrnek2\RandomÖrnek2\obj\Debug\RandomÖrnek2.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\RandomÖrnek2\RandomÖrnek2\obj\Debug\RandomÖrnek2.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\RandomÖrnek2\RandomÖrnek2\obj\Debug\RandomÖrnek2.exe
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\RandomÖrnek2\RandomÖrnek2\obj\Debug\RandomÖrnek2.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\Dizi(Arrays)\Dizi(Arrays)\bin\Debug\Dizi(Arrays).exe.config
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\Dizi(Arrays)\Dizi(Arrays)\bin\Debug\Dizi(Arrays).exe
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\Dizi(Arrays)\Dizi(Arrays)\bin\Debug\Dizi(Arrays).pdb
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\Dizi(Arrays)\Dizi(Arrays)\obj\Debug\Dizi(Arrays).csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\Dizi(Arrays)\Dizi(Arrays)\obj\Debug\Dizi(Arrays).csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\Dizi(Arrays)\Dizi(Arrays)\obj\Debug\Dizi(Arrays).exe
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\Dizi(Arrays)\Dizi(Arrays)\obj\Debug\Dizi(Arrays).pdb

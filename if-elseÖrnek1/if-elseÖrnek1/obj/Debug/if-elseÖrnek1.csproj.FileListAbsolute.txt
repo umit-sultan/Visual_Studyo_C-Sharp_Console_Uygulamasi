@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\VİSUAL STUDYO\if-elseÖrnek1\if-elseÖrnek1\bin\Debug\if-elseÖrnek1.exe.config
+C:\Users\user\Desktop\VİSUAL STUDYO\if-elseÖrnek1\if-elseÖrnek1\bin\Debug\if-elseÖrnek1.exe
+C:\Users\user\Desktop\VİSUAL STUDYO\if-elseÖrnek1\if-elseÖrnek1\bin\Debug\if-elseÖrnek1.pdb
+C:\Users\user\Desktop\VİSUAL STUDYO\if-elseÖrnek1\if-elseÖrnek1\obj\Debug\if-elseÖrnek1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\VİSUAL STUDYO\if-elseÖrnek1\if-elseÖrnek1\obj\Debug\if-elseÖrnek1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VİSUAL STUDYO\if-elseÖrnek1\if-elseÖrnek1\obj\Debug\if-elseÖrnek1.exe
+C:\Users\user\Desktop\VİSUAL STUDYO\if-elseÖrnek1\if-elseÖrnek1\obj\Debug\if-elseÖrnek1.pdb

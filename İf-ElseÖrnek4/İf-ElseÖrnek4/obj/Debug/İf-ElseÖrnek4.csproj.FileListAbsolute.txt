@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\VİSUAL STUDYO\İf-ElseÖrnek4\İf-ElseÖrnek4\obj\Debug\İf-ElseÖrnek4.csprojAssemblyReference.cache
+C:\Users\user\Desktop\VİSUAL STUDYO\İf-ElseÖrnek4\İf-ElseÖrnek4\obj\Debug\İf-ElseÖrnek4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VİSUAL STUDYO\İf-ElseÖrnek4\İf-ElseÖrnek4\bin\Debug\İf-ElseÖrnek4.exe.config
+C:\Users\user\Desktop\VİSUAL STUDYO\İf-ElseÖrnek4\İf-ElseÖrnek4\bin\Debug\İf-ElseÖrnek4.exe
+C:\Users\user\Desktop\VİSUAL STUDYO\İf-ElseÖrnek4\İf-ElseÖrnek4\bin\Debug\İf-ElseÖrnek4.pdb
+C:\Users\user\Desktop\VİSUAL STUDYO\İf-ElseÖrnek4\İf-ElseÖrnek4\obj\Debug\İf-ElseÖrnek4.exe
+C:\Users\user\Desktop\VİSUAL STUDYO\İf-ElseÖrnek4\İf-ElseÖrnek4\obj\Debug\İf-ElseÖrnek4.pdb

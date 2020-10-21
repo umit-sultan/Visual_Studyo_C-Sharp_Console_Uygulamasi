@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\VİSUAL STUDYO\WhileDöngüsüÖrnek4\WhileDöngüsüÖrnek4\bin\Debug\WhileDöngüsüÖrnek4.exe.config
+C:\Users\user\Desktop\VİSUAL STUDYO\WhileDöngüsüÖrnek4\WhileDöngüsüÖrnek4\bin\Debug\WhileDöngüsüÖrnek4.exe
+C:\Users\user\Desktop\VİSUAL STUDYO\WhileDöngüsüÖrnek4\WhileDöngüsüÖrnek4\bin\Debug\WhileDöngüsüÖrnek4.pdb
+C:\Users\user\Desktop\VİSUAL STUDYO\WhileDöngüsüÖrnek4\WhileDöngüsüÖrnek4\obj\Debug\WhileDöngüsüÖrnek4.csprojAssemblyReference.cache
+C:\Users\user\Desktop\VİSUAL STUDYO\WhileDöngüsüÖrnek4\WhileDöngüsüÖrnek4\obj\Debug\WhileDöngüsüÖrnek4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VİSUAL STUDYO\WhileDöngüsüÖrnek4\WhileDöngüsüÖrnek4\obj\Debug\WhileDöngüsüÖrnek4.exe
+C:\Users\user\Desktop\VİSUAL STUDYO\WhileDöngüsüÖrnek4\WhileDöngüsüÖrnek4\obj\Debug\WhileDöngüsüÖrnek4.pdb

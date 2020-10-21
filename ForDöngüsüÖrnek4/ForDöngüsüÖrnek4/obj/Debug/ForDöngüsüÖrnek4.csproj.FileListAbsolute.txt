@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\VİSUAL STUDYO\ForDöngüsüÖrnek4\ForDöngüsüÖrnek4\bin\Debug\ForDöngüsüÖrnek4.exe.config
+C:\Users\user\Desktop\VİSUAL STUDYO\ForDöngüsüÖrnek4\ForDöngüsüÖrnek4\bin\Debug\ForDöngüsüÖrnek4.exe
+C:\Users\user\Desktop\VİSUAL STUDYO\ForDöngüsüÖrnek4\ForDöngüsüÖrnek4\bin\Debug\ForDöngüsüÖrnek4.pdb
+C:\Users\user\Desktop\VİSUAL STUDYO\ForDöngüsüÖrnek4\ForDöngüsüÖrnek4\obj\Debug\ForDöngüsüÖrnek4.csprojAssemblyReference.cache
+C:\Users\user\Desktop\VİSUAL STUDYO\ForDöngüsüÖrnek4\ForDöngüsüÖrnek4\obj\Debug\ForDöngüsüÖrnek4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VİSUAL STUDYO\ForDöngüsüÖrnek4\ForDöngüsüÖrnek4\obj\Debug\ForDöngüsüÖrnek4.exe
+C:\Users\user\Desktop\VİSUAL STUDYO\ForDöngüsüÖrnek4\ForDöngüsüÖrnek4\obj\Debug\ForDöngüsüÖrnek4.pdb

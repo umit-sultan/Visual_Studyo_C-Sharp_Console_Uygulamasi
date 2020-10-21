@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\VİSUAL STUDYO\İf-ElseÖrnek3\İf-ElseÖrnek3\bin\Debug\İf-ElseÖrnek3.exe.config
+C:\Users\user\Desktop\VİSUAL STUDYO\İf-ElseÖrnek3\İf-ElseÖrnek3\bin\Debug\İf-ElseÖrnek3.exe
+C:\Users\user\Desktop\VİSUAL STUDYO\İf-ElseÖrnek3\İf-ElseÖrnek3\bin\Debug\İf-ElseÖrnek3.pdb
+C:\Users\user\Desktop\VİSUAL STUDYO\İf-ElseÖrnek3\İf-ElseÖrnek3\obj\Debug\İf-ElseÖrnek3.csprojAssemblyReference.cache
+C:\Users\user\Desktop\VİSUAL STUDYO\İf-ElseÖrnek3\İf-ElseÖrnek3\obj\Debug\İf-ElseÖrnek3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VİSUAL STUDYO\İf-ElseÖrnek3\İf-ElseÖrnek3\obj\Debug\İf-ElseÖrnek3.exe
+C:\Users\user\Desktop\VİSUAL STUDYO\İf-ElseÖrnek3\İf-ElseÖrnek3\obj\Debug\İf-ElseÖrnek3.pdb
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\İf-ElseÖrnek3\İf-ElseÖrnek3\bin\Debug\İf-ElseÖrnek3.exe.config
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\İf-ElseÖrnek3\İf-ElseÖrnek3\bin\Debug\İf-ElseÖrnek3.exe
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\İf-ElseÖrnek3\İf-ElseÖrnek3\bin\Debug\İf-ElseÖrnek3.pdb
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\İf-ElseÖrnek3\İf-ElseÖrnek3\obj\Debug\İf-ElseÖrnek3.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\İf-ElseÖrnek3\İf-ElseÖrnek3\obj\Debug\İf-ElseÖrnek3.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\İf-ElseÖrnek3\İf-ElseÖrnek3\obj\Debug\İf-ElseÖrnek3.exe
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\İf-ElseÖrnek3\İf-ElseÖrnek3\obj\Debug\İf-ElseÖrnek3.pdb

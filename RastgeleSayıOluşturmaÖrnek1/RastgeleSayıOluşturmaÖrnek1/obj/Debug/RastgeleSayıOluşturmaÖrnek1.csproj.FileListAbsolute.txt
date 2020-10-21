@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\VİSUAL STUDYO\RastgeleSayıOluşturmaÖrnek1\RastgeleSayıOluşturmaÖrnek1\bin\Debug\RastgeleSayıOluşturmaÖrnek1.exe.config
+C:\Users\user\Desktop\VİSUAL STUDYO\RastgeleSayıOluşturmaÖrnek1\RastgeleSayıOluşturmaÖrnek1\bin\Debug\RastgeleSayıOluşturmaÖrnek1.exe
+C:\Users\user\Desktop\VİSUAL STUDYO\RastgeleSayıOluşturmaÖrnek1\RastgeleSayıOluşturmaÖrnek1\bin\Debug\RastgeleSayıOluşturmaÖrnek1.pdb
+C:\Users\user\Desktop\VİSUAL STUDYO\RastgeleSayıOluşturmaÖrnek1\RastgeleSayıOluşturmaÖrnek1\obj\Debug\RastgeleSayıOluşturmaÖrnek1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\VİSUAL STUDYO\RastgeleSayıOluşturmaÖrnek1\RastgeleSayıOluşturmaÖrnek1\obj\Debug\RastgeleSayıOluşturmaÖrnek1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VİSUAL STUDYO\RastgeleSayıOluşturmaÖrnek1\RastgeleSayıOluşturmaÖrnek1\obj\Debug\RastgeleSayıOluşturmaÖrnek1.exe
+C:\Users\user\Desktop\VİSUAL STUDYO\RastgeleSayıOluşturmaÖrnek1\RastgeleSayıOluşturmaÖrnek1\obj\Debug\RastgeleSayıOluşturmaÖrnek1.pdb

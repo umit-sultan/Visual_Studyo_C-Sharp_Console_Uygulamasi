@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\VİSUAL STUDYO\2sayıyıtoplama\2sayıyıtoplama\bin\Debug\2sayıyıtoplama.exe.config
+C:\Users\user\Desktop\VİSUAL STUDYO\2sayıyıtoplama\2sayıyıtoplama\bin\Debug\2sayıyıtoplama.exe
+C:\Users\user\Desktop\VİSUAL STUDYO\2sayıyıtoplama\2sayıyıtoplama\bin\Debug\2sayıyıtoplama.pdb
+C:\Users\user\Desktop\VİSUAL STUDYO\2sayıyıtoplama\2sayıyıtoplama\obj\Debug\2sayıyıtoplama.csprojAssemblyReference.cache
+C:\Users\user\Desktop\VİSUAL STUDYO\2sayıyıtoplama\2sayıyıtoplama\obj\Debug\2sayıyıtoplama.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VİSUAL STUDYO\2sayıyıtoplama\2sayıyıtoplama\obj\Debug\2sayıyıtoplama.exe
+C:\Users\user\Desktop\VİSUAL STUDYO\2sayıyıtoplama\2sayıyıtoplama\obj\Debug\2sayıyıtoplama.pdb

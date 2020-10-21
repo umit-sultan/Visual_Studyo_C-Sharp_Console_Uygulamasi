@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\VİSUAL STUDYO\MetinBirleştirme\MetinBirleştirme\bin\Debug\MetinBirleştirme.exe.config
+C:\Users\user\Desktop\VİSUAL STUDYO\MetinBirleştirme\MetinBirleştirme\bin\Debug\MetinBirleştirme.exe
+C:\Users\user\Desktop\VİSUAL STUDYO\MetinBirleştirme\MetinBirleştirme\bin\Debug\MetinBirleştirme.pdb
+C:\Users\user\Desktop\VİSUAL STUDYO\MetinBirleştirme\MetinBirleştirme\obj\Debug\MetinBirleştirme.csprojAssemblyReference.cache
+C:\Users\user\Desktop\VİSUAL STUDYO\MetinBirleştirme\MetinBirleştirme\obj\Debug\MetinBirleştirme.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VİSUAL STUDYO\MetinBirleştirme\MetinBirleştirme\obj\Debug\MetinBirleştirme.exe
+C:\Users\user\Desktop\VİSUAL STUDYO\MetinBirleştirme\MetinBirleştirme\obj\Debug\MetinBirleştirme.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\VİSUAL STUDYO\KlavyedenVeriGirişi\KlavyedenVeriGirişi\bin\Debug\KlavyedenVeriGirişi.exe.config
+C:\Users\user\Desktop\VİSUAL STUDYO\KlavyedenVeriGirişi\KlavyedenVeriGirişi\bin\Debug\KlavyedenVeriGirişi.exe
+C:\Users\user\Desktop\VİSUAL STUDYO\KlavyedenVeriGirişi\KlavyedenVeriGirişi\bin\Debug\KlavyedenVeriGirişi.pdb
+C:\Users\user\Desktop\VİSUAL STUDYO\KlavyedenVeriGirişi\KlavyedenVeriGirişi\obj\Debug\KlavyedenVeriGirişi.csprojAssemblyReference.cache
+C:\Users\user\Desktop\VİSUAL STUDYO\KlavyedenVeriGirişi\KlavyedenVeriGirişi\obj\Debug\KlavyedenVeriGirişi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VİSUAL STUDYO\KlavyedenVeriGirişi\KlavyedenVeriGirişi\obj\Debug\KlavyedenVeriGirişi.exe
+C:\Users\user\Desktop\VİSUAL STUDYO\KlavyedenVeriGirişi\KlavyedenVeriGirişi\obj\Debug\KlavyedenVeriGirişi.pdb

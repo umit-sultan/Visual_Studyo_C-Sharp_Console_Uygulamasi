@@ -1,0 +1,7 @@
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DizinÖrnek3(Foreach Komutu)\DizinÖrnek3(Foreach Komutu)\bin\Debug\DizinÖrnek3(Foreach Komutu).exe.config
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DizinÖrnek3(Foreach Komutu)\DizinÖrnek3(Foreach Komutu)\bin\Debug\DizinÖrnek3(Foreach Komutu).exe
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DizinÖrnek3(Foreach Komutu)\DizinÖrnek3(Foreach Komutu)\bin\Debug\DizinÖrnek3(Foreach Komutu).pdb
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DizinÖrnek3(Foreach Komutu)\DizinÖrnek3(Foreach Komutu)\obj\Debug\DizinÖrnek3(Foreach Komutu).csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DizinÖrnek3(Foreach Komutu)\DizinÖrnek3(Foreach Komutu)\obj\Debug\DizinÖrnek3(Foreach Komutu).csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DizinÖrnek3(Foreach Komutu)\DizinÖrnek3(Foreach Komutu)\obj\Debug\DizinÖrnek3(Foreach Komutu).exe
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DizinÖrnek3(Foreach Komutu)\DizinÖrnek3(Foreach Komutu)\obj\Debug\DizinÖrnek3(Foreach Komutu).pdb

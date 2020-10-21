@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\VİSUAL STUDYO\SwitchCaseYapısı\SwitchCaseYapısı\bin\Debug\SwitchCaseYapısı.exe.config
+C:\Users\user\Desktop\VİSUAL STUDYO\SwitchCaseYapısı\SwitchCaseYapısı\bin\Debug\SwitchCaseYapısı.exe
+C:\Users\user\Desktop\VİSUAL STUDYO\SwitchCaseYapısı\SwitchCaseYapısı\bin\Debug\SwitchCaseYapısı.pdb
+C:\Users\user\Desktop\VİSUAL STUDYO\SwitchCaseYapısı\SwitchCaseYapısı\obj\Debug\SwitchCaseYapısı.csprojAssemblyReference.cache
+C:\Users\user\Desktop\VİSUAL STUDYO\SwitchCaseYapısı\SwitchCaseYapısı\obj\Debug\SwitchCaseYapısı.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VİSUAL STUDYO\SwitchCaseYapısı\SwitchCaseYapısı\obj\Debug\SwitchCaseYapısı.exe
+C:\Users\user\Desktop\VİSUAL STUDYO\SwitchCaseYapısı\SwitchCaseYapısı\obj\Debug\SwitchCaseYapısı.pdb

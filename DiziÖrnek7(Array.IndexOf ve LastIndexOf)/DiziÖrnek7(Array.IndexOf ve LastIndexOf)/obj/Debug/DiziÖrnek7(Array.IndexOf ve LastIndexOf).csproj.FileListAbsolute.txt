@@ -1,0 +1,7 @@
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DiziÖrnek7(Array.IndexOf ve LastIndexOf)\DiziÖrnek7(Array.IndexOf ve LastIndexOf)\bin\Debug\DiziÖrnek7(Array.IndexOf ve LastIndexOf).exe.config
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DiziÖrnek7(Array.IndexOf ve LastIndexOf)\DiziÖrnek7(Array.IndexOf ve LastIndexOf)\bin\Debug\DiziÖrnek7(Array.IndexOf ve LastIndexOf).exe
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DiziÖrnek7(Array.IndexOf ve LastIndexOf)\DiziÖrnek7(Array.IndexOf ve LastIndexOf)\bin\Debug\DiziÖrnek7(Array.IndexOf ve LastIndexOf).pdb
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DiziÖrnek7(Array.IndexOf ve LastIndexOf)\DiziÖrnek7(Array.IndexOf ve LastIndexOf)\obj\Debug\DiziÖrnek7(Array.IndexOf ve LastIndexOf).csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DiziÖrnek7(Array.IndexOf ve LastIndexOf)\DiziÖrnek7(Array.IndexOf ve LastIndexOf)\obj\Debug\DiziÖrnek7(Array.IndexOf ve LastIndexOf).csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DiziÖrnek7(Array.IndexOf ve LastIndexOf)\DiziÖrnek7(Array.IndexOf ve LastIndexOf)\obj\Debug\DiziÖrnek7(Array.IndexOf ve LastIndexOf).exe
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DiziÖrnek7(Array.IndexOf ve LastIndexOf)\DiziÖrnek7(Array.IndexOf ve LastIndexOf)\obj\Debug\DiziÖrnek7(Array.IndexOf ve LastIndexOf).pdb

@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\VİSUAL STUDYO\SwitchCaseÖrnek2\SwitchCaseÖrnek2\bin\Debug\SwitchCaseÖrnek2.exe.config
+C:\Users\user\Desktop\VİSUAL STUDYO\SwitchCaseÖrnek2\SwitchCaseÖrnek2\bin\Debug\SwitchCaseÖrnek2.exe
+C:\Users\user\Desktop\VİSUAL STUDYO\SwitchCaseÖrnek2\SwitchCaseÖrnek2\bin\Debug\SwitchCaseÖrnek2.pdb
+C:\Users\user\Desktop\VİSUAL STUDYO\SwitchCaseÖrnek2\SwitchCaseÖrnek2\obj\Debug\SwitchCaseÖrnek2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\VİSUAL STUDYO\SwitchCaseÖrnek2\SwitchCaseÖrnek2\obj\Debug\SwitchCaseÖrnek2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VİSUAL STUDYO\SwitchCaseÖrnek2\SwitchCaseÖrnek2\obj\Debug\SwitchCaseÖrnek2.exe
+C:\Users\user\Desktop\VİSUAL STUDYO\SwitchCaseÖrnek2\SwitchCaseÖrnek2\obj\Debug\SwitchCaseÖrnek2.pdb

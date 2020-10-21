@@ -1,0 +1,7 @@
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DizinÖrnek5(ArrayList.Sort ve Lenght Yönetemi)\DizinÖrnek5(ArrayList.Sort ve Lenght Yönetemi)\bin\Debug\DizinÖrnek5(ArrayList.Sort ve Lenght Yönetemi).exe.config
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DizinÖrnek5(ArrayList.Sort ve Lenght Yönetemi)\DizinÖrnek5(ArrayList.Sort ve Lenght Yönetemi)\bin\Debug\DizinÖrnek5(ArrayList.Sort ve Lenght Yönetemi).exe
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DizinÖrnek5(ArrayList.Sort ve Lenght Yönetemi)\DizinÖrnek5(ArrayList.Sort ve Lenght Yönetemi)\bin\Debug\DizinÖrnek5(ArrayList.Sort ve Lenght Yönetemi).pdb
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DizinÖrnek5(ArrayList.Sort ve Lenght Yönetemi)\DizinÖrnek5(ArrayList.Sort ve Lenght Yönetemi)\obj\Debug\DizinÖrnek5(ArrayList.Sort ve Lenght Yönetemi).csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DizinÖrnek5(ArrayList.Sort ve Lenght Yönetemi)\DizinÖrnek5(ArrayList.Sort ve Lenght Yönetemi)\obj\Debug\DizinÖrnek5(ArrayList.Sort ve Lenght Yönetemi).csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DizinÖrnek5(ArrayList.Sort ve Lenght Yönetemi)\DizinÖrnek5(ArrayList.Sort ve Lenght Yönetemi)\obj\Debug\DizinÖrnek5(ArrayList.Sort ve Lenght Yönetemi).exe
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DizinÖrnek5(ArrayList.Sort ve Lenght Yönetemi)\DizinÖrnek5(ArrayList.Sort ve Lenght Yönetemi)\obj\Debug\DizinÖrnek5(ArrayList.Sort ve Lenght Yönetemi).pdb

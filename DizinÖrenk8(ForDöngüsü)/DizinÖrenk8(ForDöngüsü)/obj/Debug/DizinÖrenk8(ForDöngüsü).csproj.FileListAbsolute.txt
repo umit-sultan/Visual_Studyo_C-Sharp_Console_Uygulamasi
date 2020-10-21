@@ -1,0 +1,7 @@
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DizinÖrenk8(ForDöngüsü)\DizinÖrenk8(ForDöngüsü)\bin\Debug\DizinÖrenk8(ForDöngüsü).exe.config
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DizinÖrenk8(ForDöngüsü)\DizinÖrenk8(ForDöngüsü)\bin\Debug\DizinÖrenk8(ForDöngüsü).exe
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DizinÖrenk8(ForDöngüsü)\DizinÖrenk8(ForDöngüsü)\bin\Debug\DizinÖrenk8(ForDöngüsü).pdb
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DizinÖrenk8(ForDöngüsü)\DizinÖrenk8(ForDöngüsü)\obj\Debug\DizinÖrenk8(ForDöngüsü).csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DizinÖrenk8(ForDöngüsü)\DizinÖrenk8(ForDöngüsü)\obj\Debug\DizinÖrenk8(ForDöngüsü).csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DizinÖrenk8(ForDöngüsü)\DizinÖrenk8(ForDöngüsü)\obj\Debug\DizinÖrenk8(ForDöngüsü).exe
+C:\Users\user\OneDrive\Masaüstü\VİSUAL STUDYO\DizinÖrenk8(ForDöngüsü)\DizinÖrenk8(ForDöngüsü)\obj\Debug\DizinÖrenk8(ForDöngüsü).pdb
